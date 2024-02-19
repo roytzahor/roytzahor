@@ -2,19 +2,19 @@
 
 ## 🚀 Junior DevOps Engineer | Lifelong Learner | Tech Enthusiast
 
-Hey there! I'm Roy - a fresh and zealous DevOps engineer navigating the exciting waters of automation, cloud computing, and robust system architectures. With a keen interest in the principles of 'Infrastructure as Code', I'm on a mission to streamline development workflows and enhance operational efficiencies.
+Hey there! I'm Roy - a fresh DevOps engineer navigating the exciting waters of automation, cloud computing, and robust system architectures. With a keen interest in the principles of 'Infrastructure as Code', I'm on a mission to streamline development workflows and enhance operational efficiencies.
 
 ### 💼 Skills Snapshot
 ```bash
-- **Cloud Services**: Familiarity with AWS, Azure
-- **Containerization**: Working knowledge of Docker and Kubernetes
-- **CI/CD Tools**: Experience with Jenkins, GitLab CI
-- **Infrastructure as Code**: Basic understanding of Terraform and Ansible
-- **Scripting**: Proficient in Bash scripting
-- **Version Control**: Skilled in Git and GitHub usage
-- **Monitoring Tools**: Exposure to Prometheus and Grafana
-
-### About Me
+- Cloud Services$ Familiarity with Azure
+- Containerization$ Working knowledge of Docker and Kubernetes
+- CI/CD Tools$ Experience with Jenkins, GitLab CI, Azure Devops
+- Infrastructure as Code$ good understanding of Terraform and Ansible
+- Scripting$ Proficient in Bash scripting
+- Version Control$ Skilled in Git, GitHub and Gitlab
+- Monitoring Tools$ Exposure to Prometheus and Grafana, ELK and TICK
+```
+### ⚡About Me
 
 Driven by the fast-paced and solution-oriented nature of DevOps, I am excited to grow in an environment that challenges me to leverage and expand my skillset. With a background in both collaborative and independent project settings, I am ready to contribute to and learn from the innovative field of DevOps engineering.
 
@@ -26,6 +26,6 @@ Driven by the fast-paced and solution-oriented nature of DevOps, I am excited to
 
 💬 Ask me about my journey from bootcamp to DevOps!
 
-📫 How to reach me: [Your LinkedIn Profile](Your LinkedIn URL)
+📫 How to reach me: [Roy Tzahor]: https://www.linkedin.com/in/roy-tzahor209/
 
 ⚡ Fun fact: I love to explore new automation tools and I'm a quick learner!
