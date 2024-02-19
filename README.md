@@ -6,17 +6,18 @@ Hey there! I'm Roy - a fresh DevOps engineer navigating the exciting waters of a
 
 ### 💼 Skills Snapshot
 ```bash
-- Cloud Services$ Familiarity with Azure
-- Containerization$ Working knowledge of Docker and Kubernetes
-- CI/CD Tools$ Experience with Jenkins, GitLab CI, Azure Devops
-- Infrastructure as Code$ good understanding of Terraform and Ansible
-- Scripting$ Proficient in Bash scripting
-- Version Control$ Skilled in Git, GitHub and Gitlab
-- Monitoring Tools$ Exposure to Prometheus and Grafana, ELK and TICK
+- Cloud Services/ Familiarity with Azure
+- Containerization/ Working knowledge of Docker and Kubernetes
+- CI/CD Tools/ Experience with Jenkins, GitLab CI, Azure Devops
+- Infrastructure as Code/ good understanding of Terraform and Ansible
+- Scripting/ Proficient in Bash scripting
+- Version Control/ Skilled in Git, GitHub and Gitlab
+- Monitoring Tools/ Exposure to Prometheus and Grafana, ELK and TICK
 ```
 ### ⚡About Me
 
-Driven by the fast-paced and solution-oriented nature of DevOps, I am excited to grow in an environment that challenges me to leverage and expand my skillset. With a background in both collaborative and independent project settings, I am ready to contribute to and learn from the innovative field of DevOps engineering.
+Highly motivated, fast-learning, and hardworking DevOps engineer with a passion for teamwork and collaboration. Proven ability to perform well under pressure in demanding environments.
+Seeking a challenging position as a DevOps engineer in the medical or fintech industries.
 
 ---
 
